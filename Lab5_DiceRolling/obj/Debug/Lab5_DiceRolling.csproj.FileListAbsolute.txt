@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\bin\Debug\Lab5_DiceRolling.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\bin\Debug\Lab5_DiceRolling.exe
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\bin\Debug\Lab5_DiceRolling.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\obj\Debug\Lab5_DiceRolling.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\obj\Debug\Lab5_DiceRolling.exe
+c:\users\hp\documents\visual studio 2015\Projects\Lab5_DiceRolling\Lab5_DiceRolling\obj\Debug\Lab5_DiceRolling.pdb
