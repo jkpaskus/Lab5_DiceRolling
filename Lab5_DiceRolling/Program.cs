@@ -48,58 +48,23 @@ bool run = true;
                     //Console.WriteLine("The numbers you rolled were {0} and {1}", diceOne, diceTwo);
 
                 }
-                if (Answer == "n")
+                else if (Answer == "n")
                 {
                     Console.WriteLine("Thanks for playing, have a great day!");
                     run = false;
 
                 }
-               else
-                Console.WriteLine("Please enter a valid number");
-                
+                else
+                {
+                    Console.WriteLine("Please enter a valid number");
+                }
 
 
             } while (run);
                 }
         }
 }
-//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
 
-//namespace TestPassByoutREF
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            int input = 3;
-
-//            //int S = 0, C = 0;
-//            int S, C;
-//            S = C = 0;
-
-//            S = ReturnCubeSquare(input, ref C);
-
-//            Console.WriteLine(S);
-//            Console.WriteLine(C);
-
-
-//        }
-
-
-//        public static int ReturnCubeSquare(int number, ref int ReturnedCube)
-//        {
-
-//            int Square = number * number;
-
-//            int Cube = number * number * number;
-
-//            ReturnedCube = Cube; //return the value of the cube back to the main.  
-
-//            return Square;
 
 
 
